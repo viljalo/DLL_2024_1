@@ -9,4 +9,4 @@
 
 
 ### Car Racing Reinforcement Learning Results
-![](https://github.com/viljalo/DLL_Imitation_Reinforcement/blob/master/visualized_results/carracing_reinforcement/reinforcement_carracing.gif)
+![](https://github.com/viljalo/DLL_2024_1/blob/master/visualized_results/carracing_rl/reinforcement_carracing.gif)
